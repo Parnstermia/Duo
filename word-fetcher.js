@@ -39,6 +39,7 @@ function showAlert()
     //Saving Words into a File
     var file = new Blob(Words, {type: "text/plain;charset=utf-8"});
     saveAs(file, "Words.txt");
+    document.body.removeChild(input); //remove button
 }
 
 
