@@ -2,25 +2,19 @@
 def openDictionary(dictionary,txt):
 	with open(txt) as fil:
 		for row in fil:
-			words = row.split(" ")
-			if len(words) > 1:
-				dictionary[words[0]] = words[1]
-			else:
-				dictionary[words[0]] = ""
+			words = row.split('\t')
+			dictionary[words[0].strip("\n")] = ""
 	return dictionary
 
-def includeWords(old_words_file,old_dict,newWords):
+def includeWords(old_words_file ,old_dict ,newWords):
 	counter = 0;
-	f = open(old_words_file,'a')
-
-	with open(newWords) as new:
-		for word in new:
-			if word not in old_dict:
-				old_dict[word] = ""
-				f.write(word + "\n")
-				counter = counter + 1
-
-	f.close()
+	with open(old_words_file,'a') as f:
+		with open(newWords) as new:
+			for word in new:
+				if word.strip("\n") not in old_dict:
+					old_dict[word] = ""
+					f.write(word)
+					counter = counter + 1
 
 	return counter			
 
