@@ -41,6 +41,3 @@ function showAlert()
     saveAs(file, "Words.txt");
     document.body.removeChild(input); //remove button
 }
-
-
-
