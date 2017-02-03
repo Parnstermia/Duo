@@ -27,8 +27,9 @@ def updateDictionary(word_list, old_words_file, new_words_file):
     print("There are <" + str(number) + "> new words registered")
 
 
-Old_words = input("Enter the Old words dictionary :\n------>")
-New_words = input("Enter the new words file text  :\n------>")
-word_list = []
+if __name__ == '__main__':
+    Old_words = input("Enter the Old words dictionary :\n------>")
+    New_words = input("Enter the new words file text  :\n------>")
+    word_list = []
 
-updateDictionary(word_list, Old_words, New_words)
+    updateDictionary(word_list, Old_words, New_words)
