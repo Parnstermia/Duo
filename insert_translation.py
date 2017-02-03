@@ -15,6 +15,7 @@ with open(fi, 'r+') as fi:
                                         line.strip("\n") + "> : ")
                 if translation == '0':
                     continuar = False
+                    print("Translation stopped, wait until file is written.")
 
                 else:
                     if not translation == "":
@@ -24,3 +25,4 @@ with open(fi, 'r+') as fi:
 
             else:
                 fo.write(line)
+    print(fo + " has been succesfully created.")
