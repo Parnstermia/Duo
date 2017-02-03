@@ -30,7 +30,7 @@ def insertTranslations(fi, fo):
         print(fo + " has been succesfully created.")
 
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     fi = input("Enter the dictionary to modify  :\n------>")
     fo = input("Enter the output dictionary     :\n------>")
     insertTranslations(fi, fo)
