@@ -14,10 +14,10 @@ def insertTranslations(fi, fo):
                     if continuar:
                         translation = input("Insert translation for <" +
                                             line.strip("\n") + "> : ")
+
                     if translation == '0':
                         continuar = False
-                        print("Translation stopped, wait until\
-                                file is written.")
+                        print("Translation stopped.")
 
                     else:
                         if not translation == "":
@@ -27,7 +27,7 @@ def insertTranslations(fi, fo):
 
                 else:
                     fo.write(line)
-        print(fo + " has been succesfully created.")
+        print("The new dictionary has been created.")
 
 
 if __name__ == '__main__':
