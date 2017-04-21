@@ -1,0 +1,880 @@
+aben
+abent
+abner	open
+adressen	the address
+advokat	lawyer
+advokaten	the lawyer
+advokaterne	the lawyers
+aeble	apple
+aebler	apples
+aeblerne	the apples
+aeblet	the apple
+aeg	egg
+aegget	the egg
+aegteskaberne	the marriages
+aegteskab	marriage
+aender	ducks
+aenderne	the eggs
+aendrer	change
+af
+afdeling
+afmaerker	mark
+afsted
+aften	noon
+aftensmad	dinner
+aftensmaden	dinner
+alder	age
+alderen
+aldrene	ages
+aldrig	never
+allerede	already
+altid	always
+and	duck
+anden	the duck
+andens	the ducks
+anderledes	different
+ansvarlig	responsible
+ansvarlige	responsibles
+ansvarligt	responsible
+appelsin	orange
+appelsinen	the orange
+appelsiner	oranges
+appelsinerne	the oranges
+april	april
+arbejde	work
+arbejderne	workers
+arbejder	work
+arbejdet	the worker
+arhundred
+arkitekt	architect
+ar	year
+at
+august	august
+avis	newspaper
+avisen	the newspaper
+aviser	newspapers
+aviserne	the newspapers
+bag	back
+bange	afraid
+bank	bank
+banken	the bank
+banker	banks
+bar	bar
+barberer	shave
+bare	just
+baren	the bar
+barerne	bars
+barn
+barnet	the child
+batteri	battery
+batterier	the batteries
+batteriet	the battery
+bedstefaedre	grandfather
+bedstefaren	the grandfather
+bedstefar	grandfather
+bedstemoren	the grandmother
+begynder	start
+behover	need
+bekvemme
+bekvemt	conveniently
+beromt
+beskidt
+beskidte
+bestemt
+betaler
+betjenten	the police officer
+biograf	cinema
+biografen	the cinema
+bjorn
+bjorne
+bjornen
+bjornene
+bjornens
+bla
+bladet	the magazine
+blat
+bof
+boffen
+bog
+bogen	the book
+boger	books
+bogerne	the books
+bondegard	farm
+bondegarden	the farm
+bondegardene	the farms
+bordene	the tables
+bordet	the table
+bor	live
+born
+bornene	the children
+boulevard	boulevard
+brod	bread
+brodet
+bror	brother
+bruger
+brun	brown
+brune	brown
+brunt	brown
+bukser	pants
+byen	city
+bygning
+bygningen
+bygninger
+center	center
+centrum	center
+chef	chef
+chefen	the chef
+citron	lemon
+citronen	the lemon
+computeren	the computer
+dag	day
+dal	valley
+dalen	the valley
+danmark	Denmark
+danser	dance
+dansk	Danish
+dansk	Danish
+danske	Danish
+datoen	the date
+december	December
+dem
+den
+dens
+der
+derefter
+deres	theirs
+derhenne
+derinde
+derude
+designer	design
+de	they
+det	it
+det	it
+dets	its
+dig	your
+din	your
+dine	your
+direktor	director
+direktoren	the manager/director
+dit	your
+dommere	Judges
+dor	door
+doren	the door
+dreng	boy
+drenge	boys
+drengene	the boys
+drengens	the boy's
+drengen	the boy
+drengs	boy's
+drikker	drink
+du	you
+dyr	animal
+dyr	animal
+dyre	expensive
+dyrene	animals
+dyret	the animal
+dyrt	expensive
+edderkoppen	the spider
+edderkop	spider
+effektiv	effective
+effektivt	effective
+efter	after
+efteraret
+eftermiddagen
+egen
+eget	own
+egne	own
+ejendom	property
+elefant	elephant
+elefanten	the elephant
+elefanter	elephants
+elefanterne	the elephants
+eller	or
+ellers
+elsker	love
+en	a
+endda
+endelig	finally
+endelige	finally
+endeligt	finally
+endnu
+engang
+engelsk	English
+er	to be
+erhverv	profession
+erhvervet	the profession
+et	a
+faengsel
+familie	family
+familien	the family
+fantastisk
+fantastiske
+får	
+faren	the father
+far	father
+farvel
+farverig
+farverige
+farverigt	colorful
+februar	February
+festen	the party
+finder	to fin
+fisk	fish
+fisken	the fish
+fiskens	the fish's
+fjernsynet
+flasken	the bottle
+flaskerne	the bottles
+fodsel	birth
+fodslen	the birth
+fodslerne	the births
+foler
+folger	follow
+for
+for
+for	
+foraeldrene	parents
+foran
+forar
+foraret
+fordi
+forfatter
+forfattere
+forkert
+forkerte
+formiddagen
+formiddagene
+fortaeller
+fra
+frå
+frakke	coat
+fredag	Friday
+fremragende
+fremtidige
+frokost
+frokosten
+frugt
+frugten	the fruit
+frugter
+frugterne
+fugl
+fugle	birds
+fuglen
+fuglene
+fuldstaendigt
+gaderne
+gar
+gard
+gemmer
+generation	generation
+generel
+generelle
+generelt
+gerne	like
+giver
+glad	happy
+godaften
+goddag	good day
+godmorgen
+godnat
+godt
+godt	good
+graense
+graensen
+gron
+gronne
+gront
+haber
+ham	Him
+han	He
+hans	his
+har	to have
+har	have
+har	have
+hat	hat
+hattene	the hats
+have	have
+haven
+havn
+hej	hi
+hel
+hele
+hen
+hende
+hendes
+henne
+her
+hest
+heste	horses
+hestene	the horses
+hesten	the horse
+historisk	historical
+historiske	hitorical
+hjem
+hjorne
+hjorner
+hjornet
+hojre	
+horer	
+hotellet	the hotel
+hovedstaden
+hund	dog
+hunde	dogs
+hundene	the dogs
+hunden	the dog
+hun	She
+hus	house
+husker
+hvad	what
+hvem	who
+hverdag
+hverdage
+hverken
+hviler
+hvilken	which
+hvilket	which
+hvilke	which
+hvis
+hvis
+hvor	where
+hvordan	how
+hvorfor	why
+hvornar	how
+hyppige
+hyppigt
+i	in
+i	in
+i	in
+igen
+ikke	not
+imidlertid
+ind
+inde
+indenfor
+indtil
+ingenior	engineer
+inkluderer	to include
+interessant	interesting
+interessante	interesting
+is	ice-cream
+isaer
+ja	Yes
+jakke	jakket
+jakken	the jakket
+jakkesaet	suit
+jakkesaettet	the suit
+januar	January
+jeg	I
+jeres	your
+jer	your
+job	job
+jordbaer	strawberry
+jordbaeret
+jorden
+juli	July
+juni
+kaffe
+kaffen
+kage	cake
+kagen
+kalder
+kalender	calendar
+kan	can
+kaptajn
+kaptajnen
+karriere
+kartoffel
+kartoflen
+kartofler
+kassen	the box
+kat
+katte
+kattene
+katten	the cat
+ked
+kede
+kender	know
+kigger
+kirken
+kirker
+kjole	dress
+kjolen	the dress
+kod
+kodet
+koger	
+kokke	cookers
+kokken
+kommer	Come
+kone	wife
+kontor
+kontoret
+krabbe
+krabben
+kulturel
+kulturelt
+kun
+kunstneren	the artists
+kurven
+kvinde
+kvindens	the woman's
+kvinden	the woman
+kvindernes	the women's
+kvinderne	the women
+kvinders	women's
+kvinder	women
+kvindes
+kylling
+kyllingen
+kysterne
+laenge
+laeser
+lampe	lamps
+lampen	the lamp
+lamperne	the lamps
+land
+landet
+landmaend
+landmand	farmer
+landsby	village
+langs
+langsomt
+langt
+laver	make
+leg
+leger	play
+levende
+lever	alive
+lide	like
+lidt
+lige
+lilla
+lille	little
+live
+lober	run
+lokal
+lokale
+lokalt
+lordag	Saturday
+love
+lovlig
+lovligt
+lufthavnen
+lysebla
+lyseblat
+lyse	bright
+lysegron	bright green
+lysegronne	bright green
+lysegront	bright green
+lyserod
+lyserode	pink
+lyst	bright
+lytter	listen
+maden
+mad	food
+maelk
+maelken
+maend
+maendene
+maendenes	the men
+maends
+maj
+maltid
+maltidet
+mand
+mandag	Monday
+mandens	the man's
+manden	the man
+mand	man
+mands	man's
+maned	month
+marked
+markedet
+marts
+maske	maybe
+med	with
+meget	
+mellem
+men
+menneskelig
+menneskelige
+menneskeligt
+mens
+menuen
+menu	menu
+mere
+middag
+midnat
+mig	my
+militaer	military
+min
+mindst
+mine	my
+minut
+mit	my
+mobiltelefon	cellphone
+mobiltelefonen	the cellphones
+mobiltelefoner	cellphones
+moderne	modern
+modsatte
+morgenmad
+morgenmaden
+morgen	the morning
+mork
+morke
+morkebla	dark blue
+morkegron
+morkegronne
+morkerod	dark red
+morkerode	dark red
+morkt
+mor	mother
+mulig
+mulige
+muligt
+muligvis
+mus
+museet	the museum
+musen
+nabolag
+nabolaget
+naer	near
+naeste
+naesten
+nar
+nat	night
+natten	the night
+nederdelen	the skirt
+nederdel	skirt
+negativ
+negative
+negativt
+nej
+nemt
+nodvendig
+nodvendige
+nodvendigt
+nodvendigvis
+nogensinde
+norden	the north
+nord	north
+normal
+normalt
+normalt
+november
+nu
+nylig
+nylige
+oerne
+officiel
+officielle
+officielt
+og	and
+ogsa
+ojeblikket
+ojeblik	moment
+oktober	October
+ol
+olie
+olien
+ollen
+ollene
+om
+om
+om
+om
+omkring
+omrade
+omraderne
+omradet
+omtrent
+ond
+onde
+onkel
+onkler
+onsdag	Wednesday
+onsker
+opdrager
+orange	orange
+os
+ost
+osten
+oven
+overvejer
+pa
+palads	palace
+pasta
+pastaen	the pasta
+perfekt
+perfekt
+perfekte
+periode	period
+personlig
+personlige
+personligt
+pige
+pigens
+﻿pigen	the girl
+piger
+pigerne
+piges	girls
+plads
+politiet
+populaere
+populaert
+positiv
+positive
+positivt
+praecis
+praesenterer
+praktisk
+praktiske
+privat
+private
+professionel
+professionelle
+prover
+radioen	the radio
+raekker
+redder
+regionerne	the regions
+region	region
+regner
+religios
+religiose
+religiost
+ren
+rene
+rent
+restauranten
+ret
+returnerer
+rigtig
+rigtige
+rigtigt
+ringer	ring/call
+ris
+risene
+rode	red
+rod	red
+rodt	red
+rorer
+rum
+ruten	the route
+rute	route
+sa
+saedvanligvis
+saeson
+saften
+saft	juice
+salt
+saltet
+samfund	community
+samme
+sammen
+sandwich
+sandwichen
+sandwichene
+sandwiches
+scene
+scenen
+sekund	Second
+selv
+senere
+sengen
+sengetoj	bed sheet
+sengetojet
+sent
+september	Septemer
+ser
+serios
+seriose
+seriost
+servitricen	waitress
+sig
+siger	say
+sin
+sine
+sit	his
+sjov
+sjovt
+skaerm
+skalen	
+skalene
+skeen	spoon
+skildpadde
+skildpadden
+skildpadderne
+skildpadder	turtles
+skjorten	the shirt
+skjorterne	the shirts
+skjorter	shirts
+skjorte	shirt
+sko	shoes
+skrivebordet	the desk
+skriver
+slotte
+slottet
+slutter
+sma
+smuk
+smukt
+smule
+snakker
+snart
+sofaen	the sofa
+sofa	sofa
+soger
+soldater	Soldiers
+som
+sommeren	summer
+sommetider
+sondagen	the sunday
+sondag	Sunday
+sonner
+sort
+sorte
+soskende
+soster	sister
+sover	sleep
+sovevaerelset
+specielle
+speciel	special
+specielt
+spejlet
+spiller	play
+spiser	eat
+sporger
+sporgsmalene	the questions
+sporgsmal	question
+stadig
+star
+stationen	the station
+stederne
+stolene	the chairs
+stolen	the chair
+stoler
+stopper
+stor
+store
+stort
+stotter
+strand
+stromper	socks
+strompe	socks
+studerende
+studerer
+stuen
+sukkeret
+sukker	sugar
+suppen
+suppe	soup
+svar	answer
+svarene	the answers
+svarer
+svaret	the answer
+svigter
+svinekod
+svinekodet
+svommer	swim
+synes
+synger	sing
+taenker	think
+tager	take
+takker
+tak	Thanks
+﻿taler	talk
+taler	talk
+tallerken
+tallerkenen
+tallerknerne
+tallerkner	plates
+tanter	aunt
+tarnet
+tarn	tower
+te
+teen
+tid
+tidligt
+tilbage
+tilbyder
+tilgaengelig
+tilgaengelige
+tilgaengeligt
+tilstraekkeligt
+til	to
+time	hour
+tirsdag	Tuesday
+tjeneren
+tjener	Waiter
+tomat
+tomaten
+torsdage	thursdays
+torsdag	thursday
+torvet	the square
+torv	square
+tosprogede	bilinguals
+traditionel
+traditionelle
+traditionelt
+traet
+traette
+trist
+triste
+tror
+tv
+tydeligt
+uafhaengige
+ude
+uden
+udenfor
+uge	week
+ugle	owl
+umulig
+umulige
+umuligt
+under
+underlig
+underlige
+underskriver
+undskyld	sorry
+urene	dirty
+uret	the clock
+vaek
+vaerelse
+vaerelser
+vagt
+vagten	the guard
+vand
+vandet
+ved
+ved 
+vegetar
+vegetaren
+vegetarer
+vegetarerne
+velkendt
+velkendte
+velkommen	welcome
+vender
+venstre
+vesten	the west
+vest	west
+vigtig
+vigtige
+vigtigt
+vil
+vin
+vinduerne
+vinen
+vinter
+vinteren
+virkelig
+viser
+vi	We
+vores
+weekenden	the weekend
+weekend	weekend
+zonen	the zone
+zone	zone
+zoologisk
+zoologiske
